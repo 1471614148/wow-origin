@@ -20,6 +20,9 @@
 
 
 
+
+
+
 部署成功后，访问 `http://<your-server>:<port>/login` 配置账号
 
 ### 使用 AI 部署
